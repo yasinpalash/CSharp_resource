@@ -1,0 +1,15 @@
+D:\c#_resource\data_type\bin\Debug\net9.0\data_type.exe
+D:\c#_resource\data_type\bin\Debug\net9.0\data_type.deps.json
+D:\c#_resource\data_type\bin\Debug\net9.0\data_type.runtimeconfig.json
+D:\c#_resource\data_type\bin\Debug\net9.0\data_type.dll
+D:\c#_resource\data_type\bin\Debug\net9.0\data_type.pdb
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.AssemblyInfoInputs.cache
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.AssemblyInfo.cs
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.csproj.CoreCompileInputs.cache
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.sourcelink.json
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.dll
+D:\c#_resource\data_type\obj\Debug\net9.0\refint\data_type.dll
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.pdb
+D:\c#_resource\data_type\obj\Debug\net9.0\data_type.genruntimeconfig.cache
+D:\c#_resource\data_type\obj\Debug\net9.0\ref\data_type.dll
