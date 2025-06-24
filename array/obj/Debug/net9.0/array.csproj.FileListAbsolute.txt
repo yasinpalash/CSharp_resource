@@ -1,0 +1,15 @@
+D:\c#_resource\array\bin\Debug\net9.0\array.exe
+D:\c#_resource\array\bin\Debug\net9.0\array.deps.json
+D:\c#_resource\array\bin\Debug\net9.0\array.runtimeconfig.json
+D:\c#_resource\array\bin\Debug\net9.0\array.dll
+D:\c#_resource\array\bin\Debug\net9.0\array.pdb
+D:\c#_resource\array\obj\Debug\net9.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_resource\array\obj\Debug\net9.0\array.AssemblyInfoInputs.cache
+D:\c#_resource\array\obj\Debug\net9.0\array.AssemblyInfo.cs
+D:\c#_resource\array\obj\Debug\net9.0\array.csproj.CoreCompileInputs.cache
+D:\c#_resource\array\obj\Debug\net9.0\array.sourcelink.json
+D:\c#_resource\array\obj\Debug\net9.0\array.dll
+D:\c#_resource\array\obj\Debug\net9.0\refint\array.dll
+D:\c#_resource\array\obj\Debug\net9.0\array.pdb
+D:\c#_resource\array\obj\Debug\net9.0\array.genruntimeconfig.cache
+D:\c#_resource\array\obj\Debug\net9.0\ref\array.dll
