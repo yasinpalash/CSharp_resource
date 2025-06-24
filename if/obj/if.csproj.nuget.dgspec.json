@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#_resource\\firstApp\\firstApp.csproj": {}
+    "D:\\c#_resource\\if\\if.csproj": {}
   },
   "projects": {
-    "D:\\c#_resource\\firstApp\\firstApp.csproj": {
+    "D:\\c#_resource\\if\\if.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#_resource\\firstApp\\firstApp.csproj",
-        "projectName": "firstApp",
-        "projectPath": "D:\\c#_resource\\firstApp\\firstApp.csproj",
+        "projectUniqueName": "D:\\c#_resource\\if\\if.csproj",
+        "projectName": "if",
+        "projectPath": "D:\\c#_resource\\if\\if.csproj",
         "packagesPath": "C:\\Users\\yasin\\.nuget\\packages\\",
-        "outputPath": "D:\\c#_resource\\firstApp\\obj\\",
+        "outputPath": "D:\\c#_resource\\if\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasin\\AppData\\Roaming\\NuGet\\NuGet.Config"

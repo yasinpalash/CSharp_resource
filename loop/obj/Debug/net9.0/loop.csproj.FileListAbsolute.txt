@@ -12,3 +12,4 @@ D:\c#_resource\loop\obj\Debug\net9.0\refint\loop.dll
 D:\c#_resource\loop\obj\Debug\net9.0\loop.pdb
 D:\c#_resource\loop\obj\Debug\net9.0\loop.genruntimeconfig.cache
 D:\c#_resource\loop\obj\Debug\net9.0\ref\loop.dll
+D:\c#_resource\loop\obj\Debug\net9.0\loop.sourcelink.json
